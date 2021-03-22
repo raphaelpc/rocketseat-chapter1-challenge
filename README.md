@@ -1,4 +1,9 @@
 # rocketseat-chapter1-challenge
 
-Uma aplicação de TODO list.
-Solução do desafio do primeiro capítulo do curso Ignite da RocketSeat.
+Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
+
+- Adicionar uma nova tarefa
+- Remover uma tarefa
+- Marcar e desmarcar uma tarefa como concluída
+
+(Solução do desafio do primeiro capítulo do curso Ignite da RocketSeat.)
